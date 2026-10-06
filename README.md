@@ -1,4 +1,4 @@
-# Olá! Eu sou a Maria Eduarda 👋
+# Olá! Eu sou a Maria Eduarda 
 
 Estudante de **Desenvolvimento de Sistemas** apaixonada por tecnologia, com experiência em **segurança da informação** e foco em **desenvolvimento de software com Python**.
 
